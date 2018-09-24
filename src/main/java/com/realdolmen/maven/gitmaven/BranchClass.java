@@ -29,7 +29,10 @@ public class BranchClass {
     public void setVersion(String version) {
         this.version = version;
     }
-    
-    
+
+    @Override
+    public String toString() {
+        return "BranchClass{" + "name=" + name + ", version=" + version + '}';
+    }
     
 }
