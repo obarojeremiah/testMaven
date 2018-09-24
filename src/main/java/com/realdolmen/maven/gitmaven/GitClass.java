@@ -20,4 +20,7 @@ public class GitClass {
         System.out.println("Hello Larry");
     }
     
+    public void test3(){
+        System.out.println("sdfgsdfg");
+    }
 }
