@@ -9,7 +9,7 @@ package com.realdolmen.maven.gitmaven;
  *
  * @author Kevin
  */
-public class BranchClass {
+public class BranchMergeClass {
     
     private String name;
     private String version;
