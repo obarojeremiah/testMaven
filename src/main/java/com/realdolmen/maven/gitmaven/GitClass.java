@@ -22,6 +22,7 @@ public class GitClass {
     }
     
     public void test3(){
-        
+        System.out.println("Hallo Steven");
+        System.out.println("Hello Kevin of Jasper");
     }
 }
